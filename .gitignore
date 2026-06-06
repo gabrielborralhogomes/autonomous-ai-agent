@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.key
+plans/
+memory/
+artifacts/
+*.png
+*.jpg
+!docs/images/*.png
+!docs/images/*.jpg
