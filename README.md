@@ -154,7 +154,7 @@ flowchart TD
 **Gabriel Paulino**
 - GitHub: [@gabrielborralhogomes](https://github.com/gabrielborralhogomes)
 - LinkedIn: [gabrielborralho](https://www.linkedin.com/in/gabrielborralho)
-- Email: paulino_cantanhede@hotmail.com
+- Email: gabrielborralho98@gmail.com
 
 ---
 
