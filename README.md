@@ -30,7 +30,7 @@ Após a primeira execução bem-sucedida, o agente salva o plano e pode **reexec
 ### Funcionalidades principais
 
 - **Multi-LLM:** Claude (Anthropic), GPT-4o (OpenAI), Gemini (Google), Llama via Groq e modelos locais via Ollama — troca de provedor via configuração
-- **Caixa de ferramentas:** +30 ações cobrindo automação web (Playwright/Selenium), desktop Windows, e-mail (IMAP/SMTP), planilhas (Excel), PDFs, APIs REST e análise visual multimodal via screenshots
+- **Caixa de ferramentas:** +30 ações cobrindo automação web (Playwright/Selenium), desktop Windows, e-mail (IMAP/SMTP), planilhas (Excel), PDFs, APIs REST, gerenciamneto de arquivos e análise visual multimodal via screenshots
 - **Agendador de processos:** módulo com APScheduler para execuções únicas, diárias, semanais, mensais, anuais e personalizadas, com controle de feriados e configuração de processos via SQL
 - **Recuperação automática:** motor que detecta falhas recuperáveis e tenta corrigi-las sem interromper a tarefa
 - **Controle de custo:** rastreamento de tokens e custo em USD por execução, com suporte a Prompt Caching da Anthropic
