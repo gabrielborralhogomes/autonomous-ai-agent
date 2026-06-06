@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Claude-Anthropic-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google" />
+   <img src="https://img.shields.io/badge/SQL%20Server-PostgreSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
   <img src="https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright" />
   <img src="https://img.shields.io/badge/APScheduler-Scheduling-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Private%20Project-red?style=for-the-badge" />
